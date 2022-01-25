@@ -14,7 +14,6 @@ export default function MyApp({ Component, pageProps }) {
 	const options = {
 		smooth: true,
 		lerp: 0.09,
-		multiplier: 1
 	}
 
 	//...all the dependencies you want to watch to update the scroll EXCEPT the location one
